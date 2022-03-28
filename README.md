@@ -1,4 +1,4 @@
-# Car price prediction
+# House price prediction
 
 Prediction of house prices using Python
 
