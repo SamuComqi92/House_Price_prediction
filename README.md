@@ -12,4 +12,4 @@ Summary
 6. Model finalization
 7. Test on unseen data
 
-For a complete view --> https://nbviewer.org/github/SamuComqi92/House_Price_prediction/blob/main/House_price_prediction.ipynb 
+For a complete view --> https://nbviewer.org/github/SamuComqi92/House_Price_prediction/blob/main/House_Price_prediction.ipynb
